@@ -1,6 +1,6 @@
 # 🛡️ Website Blocker - Advanced Website Blocking Tool
 
-# Full System Acess Need for Desktop Version or Use another Web version
+## Full System Acess Need for Desktop Version or Use another Web version "aviable"
 A powerful and user-friendly Python application for blocking distracting websites to boost productivity and maintain focus. Features a modern GUI interface, scheduling capabilities, and cross-platform support.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
